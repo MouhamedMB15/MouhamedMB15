@@ -3,7 +3,6 @@
 <h3 align="center">A passionate upcoming Software Engineer from New York, NY</h3>
 <img align="right" alt="Coding" width="400" src= "https://i.pinimg.com/originals/51/c1/15/51c11504680e455e54371ee16f2684d7.gif">
 
-- 🌱 I’m currently learning **Java data structures and algorithms.**
 
 - 📫 How to reach me **mouhamed23mbengue@gmail.com**
 
